@@ -27,7 +27,7 @@ I’m a recent graduate with a Master’s degree in Mathematics with a specializ
 
 ## Let's Connect!
 
-Feel free to reach out if you have any questions, opportunities, or just want to connect with someone who shares your interests in data science.
+Feel free to reach out if you have any questions, opportunities, or just want to connect with someone who shares interests in data science.
 
 ---
 
