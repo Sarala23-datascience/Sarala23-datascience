@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a recent graduate with a Master’s degree in Mathematics with a specialization in Data Science. I have a passion for data analysis, machine learning, and leveraging data to solve real-world problems. I am currently seeking a data scientist role where I can apply my skills and grow in a dynamic environment.
+I’m a graduate with a Master’s degree in Mathematics with a specialization in Data Science. I have a passion for data analysis, machine learning, and leveraging data to solve real-world problems. I am currently seeking a data scientist role where I can apply my skills and grow in a dynamic environment.
 
 ## Skills
 
